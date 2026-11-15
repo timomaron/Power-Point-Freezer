@@ -13,4 +13,4 @@ pip install mss keyboard pillow screeninfo
 ```
 
 !Warnings!
-This script was created with ChatGPT and hasn't really been tested anywhere else than on my own PC Setup, which runs on Windows 11 and has two Monitors, one with WQHD and one with Full HD.
+This script was created with help of ChatGPT and hasn't really been tested anywhere else than on my own PC Setup, which runs on Windows 11 and has two Monitors, one with WQHD and one with Full HD.
