@@ -7,8 +7,8 @@ Ctrl + Alt + Q to stop the script
 If you just want the programm without being able to change the hotkeys or anything else, you can just download the standalone.
 If you want to be able to change the hotkeys and fix or alternate the code, you have to download the complete folder and download python on your PC.
 For this to work you will also need the following python libraries.
-Just open cmd and copy this command after you installed python:
-'''pip install mss keyboard pillow screeninfo'''
+\nJust open cmd and copy this command after you installed python:
+\n'''pip install mss keyboard pillow screeninfo'''
 
 !Warnings!
 This script was created with ChatGPT and hasn't really been tested anywhere else than on my own PC Setup, which runs on Windows 11 and has two Monitors, one with WQHD and one with Full HD.
